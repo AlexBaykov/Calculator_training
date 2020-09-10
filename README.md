@@ -1,4 +1,6 @@
-Simple calculator. Just practice.
+Simple calculator that I have writeen for my own practice and pleasure.
+
+This calculator handles arithmetic operations and parenthesis. It does not support variables or functions.
 
 The program consits of data, parser, calculator and communicator classes. Data is just for data storage and error handling.
 Communicator handles input and output, therefore neither parser, nor calculator does not know anything about the source of their input.
